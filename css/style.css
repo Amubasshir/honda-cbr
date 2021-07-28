@@ -1,0 +1,36 @@
+.honda-bg-color {
+  background: #264653;
+}
+
+.honda-heading-quote {
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 22px;
+  color: #ffffff;
+  margin-bottom: -30px;
+}
+
+.honda-heading {
+  /* font-style: normal; */
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 72px;
+  color: #ffffff;
+}
+
+.honda-intro-text {
+  /* font-style: normal; */
+  font-weight: 200;
+  font-size: 16px;
+  line-height: 24px;
+  color: #e0e0e0;
+}
+
+.purchase-bg-button {
+  width: 168px;
+  height: 44px;
+  left: 156px;
+  top: 413px;
+  background: #e76f51;
+  border-radius: 5px;
+}
