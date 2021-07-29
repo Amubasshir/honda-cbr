@@ -1,3 +1,10 @@
+/* ---------------google font--------- */
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
 .honda-bg-color {
   background: #264653;
 }
@@ -33,4 +40,17 @@
   top: 413px;
   background: #e76f51;
   border-radius: 5px;
+}
+
+/* image Classes */
+.gray-img {
+  filter: grayscale(200%);
+}
+
+/* Background Classes */
+.main-bg {
+  background-color: #264653;
+}
+.main-bg-50 {
+  background-color: #26465391;
 }
